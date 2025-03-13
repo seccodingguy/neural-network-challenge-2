@@ -91,3 +91,4 @@ To run this project, the following libraries are required:
 2. Install the required dependencies using pip:
    ```bash
    pip install -r requirements.txt
+3. Run 'jupyter notebook attrition.ipynb'
